@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Audio Pop</string>
+    <string name="title">PLAY</string>
+    <string name="mtlist">MEET_Hot</string>
+    <string name="mylist">MY_List</string>
+    <string name="mylocal">MY_Local</string>
+</resources>
+<!--
+mtlist发现歌单
+mylist我的歌单
+mylocal我的本地音乐
+-->
