@@ -4,7 +4,10 @@
     <string name="mtlist">MEET_Hot</string>
     <string name="mylist">MY_List</string>
     <string name="mylocal">MY_Local</string>
+    <string name="search">search</string>
+
 </resources>
+    <!--无障碍使用的字符串-->
 <!--
 mtlist发现歌单
 mylist我的歌单
